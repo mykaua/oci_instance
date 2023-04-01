@@ -1,5 +1,19 @@
+# Terraform code for OCI 
+
+Terraform code for creating network, sg and instance on Oracle CLoud.
+OCI provide free instance - https://www.oracle.com/cloud/free/
+
+https://docs.oracle.com/en-us/iaas/developer-tutorials/tutorials/tf-compute/01-summary.htm
+
+
 <!-- BEGIN_TF_DOCS -->
 ## Requirements
+
+| Name | Version |
+|------|---------|
+| terraform | 1.3.7 |
+
+
 
 No requirements.
 
